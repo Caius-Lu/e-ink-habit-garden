@@ -1,0 +1,14 @@
+{
+    "cmake.sourceDirectory": "C:/Users/eilot/Desktop/e-ink-todo-list/.pio/libdeps/esp32/Adafruit BusIO",
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp"
+    }
+}
